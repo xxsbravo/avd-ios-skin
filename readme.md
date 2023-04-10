@@ -21,3 +21,6 @@ how an application may look on an ios device, for those of us without direct acc
 - Select **Show Advanced Settings**.
 - Repeat steps *six through eight*.
 - Press the ▶️ button.
+- **Enjoy**
+
+![iPhoneSkinResize](https://user-images.githubusercontent.com/54683739/230979899-82b76938-8067-49ff-b1f2-7fa2b7e7fc1d.png)
